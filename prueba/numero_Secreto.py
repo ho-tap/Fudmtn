@@ -42,3 +42,4 @@ if flag:
     else:
         print(f"El numero era {numero_secreto}")
         print("No has podido adivinar el número esta vez, intentalo nuevamente")
+        
